@@ -31,7 +31,7 @@ class _HOMEState extends State<HOME> {
     setState(() {
       loading=true;
     });
-      String url = "http://api.openweathermap.org/data/2.5/weather?APPID=d02d71ac4ef87d0d99e7095542d21819&q=$place";
+      String url = "http://api.openweathermap.org/data/2.5/weather?APPID="YOUR_API_KEY_HERE"&q=$place";
       Response response = await http.get(url);
 
     setState(() {
