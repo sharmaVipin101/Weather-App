@@ -1,4 +1,4 @@
-# weather
+# Weather-App
 
 Flutter application to check Weather of any location. 
 
