@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter application.
+Flutter application to check Weather of any location. 
 
 ## Getting Started
 
@@ -20,3 +20,5 @@ How it looks
 ![photo_2021-01-10_22-26-57](https://user-images.githubusercontent.com/26058609/104129679-291d0e00-5393-11eb-95af-525284236e9a.jpg)
 ![photo_2021-01-10_22-27-00](https://user-images.githubusercontent.com/26058609/104129688-3508d000-5393-11eb-8654-a241540cbf68.jpg)
 
+## License 
+Licensed under the [MIT LICENSE](https://github.com/sharmaVipin101/Weather-App/commit/696b376ce09001c38fd11ae5fc525fed915a0f83)
